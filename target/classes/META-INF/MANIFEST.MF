@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: say-hello-service
+Implementation-Title: eshop-dataaggr-service
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: admin
 Implementation-Vendor-Id: com.goodgraces.eshop
